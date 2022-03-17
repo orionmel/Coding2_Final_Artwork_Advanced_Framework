@@ -3,6 +3,16 @@
 
 #### My Github Link :  https://github.com/orionmel/Coding2_Final_Artwork_Advanced_Framework
 
+### Tips
+Since each project has a lot of code details, you can download the pdf code description through github, or find the corresponding project code description document in each folder.
+If you want more code information, check out the links below
+
+#### Project1 : https://github.com/orionmel/Coding2_Final_Artwork_Advanced_Framework/blob/main/Coding2_Say%20Your%20Love_Project/Coding2-Final_-Project.pdf
+
+#### Project2 : 
+https://github.com/orionmel/Coding2_Final_Artwork_Advanced_Framework/blob/main/Coding2_The_FACE_WEB_Project/THE_FACE_WEB.pdf
+
+
 # My main project :   Say Your Love
 
 #### Github Link : https://github.com/orionmel/Coding2_Final_Artwork_Advanced_Framework/tree/main/Coding2_Say%20Your%20Love_Project
