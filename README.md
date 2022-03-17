@@ -54,7 +54,7 @@ I am very interested in what I learned in term 2 of Creative Coding Class , such
 
 Github link： 
 --------
-https://github.com/orionmel/Coding2_Final_Artwork_Advanced_Framework
+https://github.com/orionmel/Coding2_Final_Artwork_Advanced_Framework/tree/main/Coding2_The_FACE_WEB_Project
 
 Video link： 
 --------
